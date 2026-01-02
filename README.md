@@ -1,8 +1,8 @@
 # Bottom-Up Credit Strategy: Reduced Form Credit Model & Structural Credit Model
 ### Project Overview
-This repository implements a complete exercise on credit risk modeling on probability of default and derive long/short strategy based on model results vs. market-implied result. 
+This repository implements a complete exercise on **credit risk modeling** on **probability of default** and derive **long/short strategy** based on model results vs. market-implied result. 
 
-Explictly in the industry, bottom-up credit strategy defines the universe of eligible bonds, then categorize the eligible universe into different groups, and then relative value analysis is employed to find bonds that are relatively undervalued or overvalued. 
+Explictly in the industry, **bottom-up credit strategy** defines the universe of eligible bonds, then categorize the eligible universe into different groups, and then relative value analysis is employed to find bonds that are relatively undervalued or overvalued. 
 
 In the relative value analysis family, two typical methodologies include **reduced form credit model** and **structural credit model**, where **reduced form models** use both the observed **company-specific variables** (such as financial ratios and recovery assumptions) and the **macroeconomic variables** (such as economic growth and market volatility) - where probability of default is exogenous and estimated from **regression**, while **structural model** use **Monte Carlo simulation** along with **economic theory** as well as **market information** to derive paths of company's financial conditions, and then exogenously calculate the probability of default by comparing asset value with liability value. 
 
