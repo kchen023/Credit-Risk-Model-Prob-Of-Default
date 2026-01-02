@@ -13,7 +13,7 @@ My analysis is conducted on both
 ## 📌 Project Overview
 This repository implements a dual-framework approach to quantitative credit risk modeling, designed to replicate the rigorous standards of **credit strategy in the industry**. By combining **econometric modeling** (Reduced Form) with **Monte Carlo simulation** (Structural Models), this project generates tradable credit signals (Long/Short) by identifying discrepancies between fundamental default risk and market-implied pricing.
 
-The analysis is conducted on both **simulated datasets** (for theoretical validation) and **real data of publicly traded companies** (for empirical calibration), demonstrating a complete workflow from raw data ingestion to signal generation.
+The analysis is conducted on both **simulated datasets (train/test split)** (for theoretical validation) and **real industry data of publicly traded companies** (for empirical calibration), demonstrating a complete workflow from raw data ingestion to signal generation.
 
 ---
 
