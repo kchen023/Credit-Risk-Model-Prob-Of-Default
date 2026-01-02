@@ -6,7 +6,9 @@ Explictly in the industry, bottom-up credit strategy defines the universe of eli
 
 In the relative value analysis family, two typical methodologies include **reduced form credit model** and **structural credit model**, where **reduced form models** use both the observed **company-specific variables** (such as financial ratios and recovery assumptions) and the **macroeconomic variables** (such as economic growth and market volatility) - where probability of default is exogenous and estimated from **regression**, while **structural model** use **Monte Carlo simulation** along with **economic theory** as well as **market information** to derive paths of company's financial conditions, and then exogenously calculate the probability of default by comparing asset value with liability value. 
 
-My analysis is conducted on both **simulated datasets** (for theoretical validation) and **real data of publicly traded companies** (for empirical calibration), demonstrating a complete workflow from raw data ingestion to signal generation.
+My analysis is conducted on both 
+**(1) simulated datasets** (for theoretical validation) and 
+**(2) real data of publicly traded companies** (for empirical calibration), demonstrating a complete workflow from raw data ingestion to signal generation.
 
 ## 📌 Project Overview
 This repository implements a dual-framework approach to quantitative credit risk modeling, designed to replicate the rigorous standards of **credit strategy in the industry**. By combining **econometric modeling** (Reduced Form) with **Monte Carlo simulation** (Structural Models), this project generates tradable credit signals (Long/Short) by identifying discrepancies between fundamental default risk and market-implied pricing.
