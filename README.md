@@ -59,11 +59,13 @@ $$
 ## 2. Model Outputs
 
 ### Reduced Form: Key Outputs
+**Part A Simulated Data and Logistic Regression**
 
 <p align="center">
   <img src="img/logistic_simulated_data.png" width="750">
 </p>
 
+**Part B Real Company Data and Logistic Regression**
 
 <p align="center">
   <img src="img/logistic_industry_data.png" width="750">
