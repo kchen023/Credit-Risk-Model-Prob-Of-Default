@@ -1,0 +1,2 @@
+# Credit-Strategy---Probability-of-Default-Estimation-in-Reduced-Form-and-Structural-Models
+Explore quantitative credit risk modeling on probability of default, and derive credit strategy based on model vs. market implication. Follow CFA Level III bottom-up credit strategy, reduced form model (logistic regression) and structural model (Geometric Motion) are applied, along with Monte Carlo simulation and credit recovery assumptions.
