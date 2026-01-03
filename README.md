@@ -76,7 +76,11 @@ $$
 ### 🔹 2.2 Structural Model (Merton): Monte Carlo Asset Paths
 
 <p align="center">
-  <img src="img/merton_paths_Ford.png" width="750">
+  <img src="img/merton_paths_Ford_1.png" width="750">
+</p>
+
+<p align="center">
+  <img src="img/=merton_paths_Ford_2.png" width="750">
 </p>
 
 In this case study of Ford Moter, Monte Carlo simulation generates stochastic asset value paths and compares them
