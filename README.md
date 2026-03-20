@@ -1,4 +1,4 @@
-# Bottom-Up Credit Strategy: Reduced Form Credit Model & Structural Credit Model
+# Bottom-Up Credit Strategy: Reduced-Form & Structural Credit Model
 ### Project Overview
 This repository implements a complete exercise on **credit risk modeling** on **probability of default** and derive **long/short strategy** based on model results vs. market-implied result. 
 
