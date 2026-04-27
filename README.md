@@ -138,6 +138,6 @@ $$
 
 ---
 
-
+**Author:** Kai Chen, PhD, CFA | [LinkedIn](https://www.linkedin.com/in/kai-chen-phd-cfa-024696a1/) | [GitHub](https://github.com/kchen023)
 
 *Disclaimer: This project is for academic and demonstration purposes only and does not constitute financial advice.*
